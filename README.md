@@ -1,5 +1,7 @@
 # bdij-informativos
 
+![doi:10.5281/zenodo.10330828](https://zenodo.org/badge/DOI/10.5281/zenodo.10330828.svg)
+
 Automação de rotina de publicação de informativos na Base de Dados de Institutos Jurídicos.
 
 ## Estrutura
